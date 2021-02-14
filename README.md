@@ -1,1 +1,1 @@
-# CircleMediaToken
+# CircleMediaToken smartcontract
